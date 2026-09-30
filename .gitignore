@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.xls
+*.xlsx
+*.log
+output/
+venv/
+.idea/
+.vscode/
